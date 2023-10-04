@@ -11,4 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertPuwadol&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- For clickable image that links to monkeytype website -->
+[![monkeytype.badge]](https://monkeytype.com/)
+
 [monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh
