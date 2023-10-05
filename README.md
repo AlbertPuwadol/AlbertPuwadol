@@ -14,4 +14,4 @@
 <!-- For clickable image that links to monkeytype website -->
 [![monkeytype.badge]](https://monkeytype.com/profile/alpszii)
 
-[monkeytype.badge]: https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3FlogoVariant%3Dtwo
+[monkeytype.badge]: https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh
