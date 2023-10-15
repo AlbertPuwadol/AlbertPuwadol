@@ -19,4 +19,4 @@
 
 [![monkeytype.badge]](https://monkeytype.com/profile/alpszii)
 
-[monkeytype.badge]: https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D77wpm%26label%3Dmonkeytype%26logoVariant%3Dtwo
+[monkeytype.badge]: https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D78wpm%26label%3Dmonkeytype%26logoVariant%3Dtwo
