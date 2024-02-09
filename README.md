@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alps</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albertpuwadol&label=Profile%20views&color=0e75b6&style=flat" alt="albertpuwadol" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albertpuwadol" alt="albertpuwadol" /></a> </p>
 
@@ -20,3 +19,5 @@
 [![monkeytype.badge]](https://monkeytype.com/profile/alpszii)
 
 [monkeytype.badge]: https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D80wpm%26label%3Dmonkeytype%26logoVariant%3Dtwo
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=albertpuwadol&label=Profile%20views&color=0e75b6&style=flat" alt="albertpuwadol" /> </p>
